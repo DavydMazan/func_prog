@@ -1,0 +1,8 @@
+[
+  {"id": 1, "title": "python basics", "genre": "Programming", "ratings": [4.0, 5.0, 5.0]},
+  {"id": 2, "title": "space odyssey", "genre": "Sci-Fi", "ratings": [4.8, 5.0, 4.7]},
+  {"id": 3, "title": "fantasy lands", "genre": "Fantasy", "ratings": [4.0, 4.5, 4.0]},
+  {"id": 4, "title": "cooking at home", "genre": "Cooking", "ratings": [3.0, 3.5, 4.0]},
+  {"id": 5, "title": "epic realms", "genre": "Fantasy", "ratings": [4.2, 4.4, 4.3]},
+  {"id": 6, "title": "young readers", "genre": "Fantasy", "ratings": [2.5, 3.0]}
+]

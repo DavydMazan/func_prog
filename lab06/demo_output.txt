@@ -1,0 +1,10 @@
+=== Замикання та декоратори: варіант 6 ===
+Результат операції: contents of report.txt
+Затримки між повторами: [0.01, 0.02]
+Статистика повторів: RetrySnapshot(attempts=3, calls=1, successes=1, failures=0)
+Кешовані розміри: 100, 100, 100
+Видалено з кешу: 1; обчислень: 2
+Лог:
+[file] [retries] attempt 1 failed: OSError('temporary read error'); sleeping 0.010s
+[file] [retries] attempt 2 failed: OSError('temporary read error'); sleeping 0.020s
+[file] [timed] simulated_read took 5.000 ms

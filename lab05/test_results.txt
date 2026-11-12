@@ -1,0 +1,11 @@
+Command: pytest -q
+Result: 14 passed in 0.08s
+
+Command: mypy streams.py core.py main.py
+Result: Success: no issues found in 3 source files
+
+Command: ruff check .
+Result: All checks passed!
+
+Formatting: black --check on all Python source and test files
+Result: all files are formatted

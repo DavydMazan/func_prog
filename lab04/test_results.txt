@@ -1,0 +1,11 @@
+Команда: pytest -q --durations=5
+Результат: 16 passed in 0.08s
+
+Перевірка типів: mypy algorithms.py main.py benchmark.py
+Результат: Success: no issues found in 3 source files
+
+Статичний аналіз: ruff check .
+Результат: All checks passed!
+
+Форматування: black --check (algorithms.py, main.py, benchmark.py і кожен файл у tests/)
+Результат: усі файли вже відформатовані

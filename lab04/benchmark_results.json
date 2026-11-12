@@ -1,0 +1,12 @@
+{
+  "nested": {
+    "recursive_seconds_100_runs": 0.0061177999996289145,
+    "iterative_seconds_100_runs": 0.00429200000144192
+  },
+  "fibonacci": {
+    "n": 28,
+    "naive_recursive_seconds": 0.11441600000034668,
+    "memoized_recursive_seconds": 3.449999712756835e-05,
+    "iterative_seconds_10000_runs": 0.012094199999410193
+  }
+}
